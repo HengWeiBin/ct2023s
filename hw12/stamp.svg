@@ -1,0 +1,79 @@
+<svg width="100.00000000000001" height="100.00000000000001" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <!-- Your beautiful SVG code will go here -->
+
+ <!-- Your beautiful SVG code will end here -->
+ <g>
+  <title>Layer 1</title>
+  <rect width="100" height="100" stroke="red" stroke-width="0.5" fill="#F1EEF7" id="svg_1"/>
+  <rect x="10" y="10" width="14.761" height="14.761" stroke="red" stroke-width="0.1" fill="none" id="svg_2"/>
+  <rect x="10" y="10" width="9.665" height="9.665" stroke="blue" stroke-width="0.1" fill="none" id="svg_3"/>
+  <rect x="10" y="10" width="7.3805" height="7.3805" stroke="red" stroke-width="0.1" fill="none" id="svg_4"/>
+  <rect x="10" y="10" width="5.535" height="5.535" stroke="green" stroke-width="0.1" fill="none" id="svg_5"/>
+  <rect x="10" y="10" width="4.833" height="4.833" stroke="blue" stroke-width="0.1" fill="none" id="svg_6"/>
+  <rect x="10" y="10" width="3.69" height="3.69" stroke="red" stroke-width="0.1" fill="none" id="svg_7"/>
+  <rect x="10" y="10" width="2.768" height="2.768" stroke="blue" stroke-width="0.1" fill="none" id="svg_8"/>
+  <rect x="30" y="10" width="14.761" height="14.761" stroke="red" stroke-width="0.1" fill="none" id="svg_9"/>
+  <text x="44" y="9" font-size="1pt" id="svg_10">初 42</text>
+  <rect x="30" y="10" width="7.3805" height="7.3805" stroke="red" stroke-width="0.1" fill="none" id="svg_11"/>
+  <text x="37" y="9" font-size="1pt" id="svg_12">二 21</text>
+  <rect x="30" y="10" width="3.69" height="3.69" stroke="red" stroke-width="0.1" fill="none" id="svg_13"/>
+  <text x="30" y="9" font-size="1pt" id="svg_14">五 10.5</text>
+  <rect x="50" y="10" width="9.665" height="9.665" stroke="blue" stroke-width="0.1" fill="none" id="svg_15"/>
+  <text x="59" y="9" font-size="1pt" id="svg_16">一 27.5</text>
+  <rect x="50" y="10" width="4.833" height="4.833" stroke="blue" stroke-width="0.1" fill="none" id="svg_17"/>
+  <text x="50" y="9" font-size="1pt" id="svg_18">四 13.75</text>
+  <rect x="70" y="10" width="5.535" height="5.535" stroke="green" stroke-width="0.1" fill="none" id="svg_19"/>
+  <text x="75" y="9" font-size="1pt" id="svg_20">三 15.75</text>
+  <rect x="70" y="10" width="2.768" height="2.768" stroke="green" stroke-width="0.1" fill="none" id="svg_21"/>
+  <text x="70" y="9" font-size="1pt" id="svg_22">六 7.875</text>
+  <rect x="50" y="50" width="4.833" height="4.833" stroke="blue" stroke-width="0.1" fill="none" id="svg_23"/>
+  <text x="50.4" y="53.9" font-size="3pt" id="svg_24">褚</text>
+  <rect x="50" y="54.833" width="4.833" height="4.833" stroke="blue" stroke-width="0.1" fill="none" id="svg_25"/>
+  <text x="50.4" y="58.733" font-size="3pt" id="svg_26">遂</text>
+  <rect x="50" y="59.666" width="4.833" height="4.833" stroke="blue" stroke-width="0.1" fill="none" id="svg_27"/>
+  <text x="50.4" y="63.566" font-size="3pt" id="svg_28">良</text>
+  <rect x="54.833" y="50" width="4.833" height="4.833" stroke="blue" stroke-width="0.1" fill="none" id="svg_29"/>
+  <text x="55.233" y="53.9" fill="blue" font-size="3pt" id="svg_30">資</text>
+  <rect x="54.833" y="54.833" width="4.833" height="4.833" stroke="blue" stroke-width="0.1" fill="none" id="svg_31"/>
+  <text x="55.233" y="58.733" fill="blue" font-size="3pt" id="svg_48">工</text>
+  <rect x="54.833" y="59.666" width="4.833" height="4.833" stroke="blue" stroke-width="0.1" fill="none" id="svg_33"/>
+  <text x="55.233" y="63.566" fill="blue" font-size="3pt" id="svg_34">所</text>
+  <rect x="59.666" y="50" width="4.833" height="4.833" stroke="blue" stroke-width="0.1" fill="none" id="svg_35"/>
+  <text x="60.066" y="53.9" font-size="3pt" id="svg_36">北</text>
+  <rect x="59.666" y="54.833" width="4.833" height="4.833" stroke="blue" stroke-width="0.1" fill="none" id="svg_37"/>
+  <text x="60.066" y="58.733" font-size="3pt" id="svg_38">科</text>
+  <rect x="59.666" y="59.666" width="4.833" height="4.833" stroke="blue" stroke-width="0.1" fill="none" id="svg_39"/>
+  <text x="60.066" y="63.566" font-size="3pt" id="svg_40">大</text>
+  <!--大字-->
+  <rect x="50" y="70" width="9.666" height="9.666" stroke="blue" stroke-width="0.1" fill="none" id="svg_41"/>
+  <text x="50.9" y="77.733" fill="blue" font-size="6pt" id="svg_42">珍</text>
+  <rect x="59.666" y="79.666" width="9.666" height="9.666" stroke="blue" stroke-width="0.1" fill="none" id="svg_43"/>
+  <text x="60.566" y="87.399" fill="blue" font-size="6pt" id="svg_44">惜</text>
+  <!--小字-->
+  <rect x="50" y="79.666" width="4.833" height="4.833" stroke="blue" stroke-width="0.1" fill="none" id="svg_45"/>
+  <text x="50.4" y="83.566" font-size="3pt" id="svg_46">才</text>
+  <rect x="54.833" y="79.666" width="4.833" height="4.833" stroke="blue" stroke-width="0.1" fill="none" id="svg_47"/>
+  <text x="55.233" y="83.566" fill="black" font-size="3pt" id="svg_48">去</text>
+  <rect x="50" y="84.499" width="4.833" height="4.833" stroke="blue" stroke-width="0.1" fill="none" id="svg_49"/>
+  <text x="50.4" y="88.399" font-size="3pt" id="svg_50">學</text>
+  <rect x="54.833" y="84.499" width="4.833" height="4.833" stroke="blue" stroke-width="0.1" fill="none" id="svg_51"/>
+  <text x="55.233" y="88.399" fill="black" font-size="3pt" id="svg_52">習</text>
+  <!--小字2-->
+  <rect x="59.666" y="70" width="4.833" height="4.833" stroke="blue" stroke-width="0.1" fill="none" id="svg_53"/>
+  <text x="60.066" y="73.9" font-size="3pt" id="svg_54">不</text>
+  <rect x="64.499" y="70" width="4.833" height="4.833" stroke="blue" stroke-width="0.1" fill="none" id="svg_55"/>
+  <text x="64.899" y="73.9" font-size="3pt" id="svg_56">要</text>
+  <rect x="59.666" y="74.833" width="4.833" height="4.833" stroke="blue" stroke-width="0.1" fill="none" id="svg_57"/>
+  <text x="60.066" y="78.733" font-size="3pt" id="svg_58">失</text>
+  <rect x="64.499" y="74.833" width="4.833" height="4.833" stroke="blue" stroke-width="0.1" fill="none" id="svg_59"/>
+  <text x="64.899" y="78.733" font-size="3pt" id="svg_60">去</text>
+  <!--注記-->
+  <text x="30" y="30" font-size="2.5pt" id="svg_61">初號 42pt</text>
+  <text x="30" y="35" font-size="2.5pt" id="svg_62">二號 21pt</text>
+  <text x="30" y="40" font-size="2.5pt" id="svg_63">五號 10.5pt</text>
+  <text x="50" y="30" font-size="2.5pt" id="svg_64">一號 27.5pt</text>
+  <text x="50" y="35" font-size="2.5pt" id="svg_65">四號 13.75pt</text>
+  <text x="70" y="30" font-size="2.5pt" id="svg_66">三號 15.75pt</text>
+  <text x="70" y="35" font-size="2.5pt" id="svg_67">六號 7.875pt</text>
+ </g>
+</svg>

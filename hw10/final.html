@@ -21,20 +21,33 @@
 		    top: 50%;  
 		    margin: 0 auto;
 		    border-left: 2px solid rgba(255,255,255,.75);
+		    font-size: 15pt;
+		    white-space: nowrap;
+		    overflow: hidden;
+		    transform: translateY(-50%);
+			letter-spacing: 10px;
+		}
+		.line-2{
+		    position: relative;
+		    top: 50%;  
+		    margin: 0 auto;
+		    border-left: 2px solid rgba(255,255,255,.75);
 		    font-size: 20pt;
 		    white-space: nowrap;
 		    overflow: hidden;
-		    transform: translateY(-50%);    
+		    transform: translateY(-50%);  
+			font-weight: bold;  
+			line-height: 56px;
 		}
 
 		/* Animation */
 		.anim-typewriter{
-		  animation: typewriter 64s steps(3000) 1s 1 normal both,
+		  animation: typewriter 4s steps(3000) 1s 1 normal both,
 		             blinkTextCursor 1000ms steps(3000) infinite normal;
 		}
 		@keyframes typewriter{
 		  from{width: 0;}
-		  to{width: 66em;}
+		  to{width: 75em;}
 		}
 		@keyframes blinkTextCursor{
 		  from{border-left-color: rgba(255,255,255,.75);}
@@ -43,13 +56,13 @@
 
 		@font-face {
 		  font-family: BpmfZihiKaiStd-Regular;
-		  src: url(./BpmfZihiKaiStd-Regular.woff2);
+		  src: url(./111C52034.ttf); /* src: url(./BpmfZihiKaiStd-Regular.woff2);*/
 		  font-weight: bold;
 		}
 
 		@font-face {
 		  font-family: CircleFont;
-		  src: url(./CircleFont.woff2);
+		  src:url(./111598401.ttf); /* src: url(./CircleFont.woff2); */
 		  font-weight: bold;
 		}
 
@@ -71,20 +84,20 @@
 		.myself {
 			font-family: 'CircleFont', serif;
 			position: absolute;
-			top: 220px;
+			top: 240px;
 			right: 160px;
 		}
 
 		.friend {
 			font-family: 'BpmfZihiKaiStd-Regular', serif;
 			position: absolute;
-			top: 630px;
+			top: 710px;
 			right: 160px;
 		}
 
 		p {
 			border: solid white 1px;
-			height: 380px;
+			height: 430px;
 		}
 	</style>
 </head>
@@ -92,13 +105,12 @@
 
 <h1 class="title">洛神賦</h1>
 
-
-
 <br>
 <br>
 <br>
 
 <p class="line-1 anim-typewriter myself">
+王偉斌<br>
 翩若驚鴻，婉若游龍，<br>
 榮曜秋菊，華茂春鬆。<br>
 髣髴兮若輕雲之蔽月，<br>
@@ -124,7 +136,8 @@
 攘皓腕於神滸兮，採湍瀨之玄芝。<br>
 </p>
 
-<p class="line-1 anim-typewriter friend">
+<p class="line-2 anim-typewriter friend">
+黃筱崴<br>
 翩若驚鴻，婉若游龍，<br>
 榮曜秋菊，華茂春鬆。<br>
 髣髴兮若輕雲之蔽月，<br>
@@ -149,8 +162,6 @@
 左倚採旄，右蔭桂旗。<br>
 攘皓腕於神滸兮，採湍瀨之玄芝。<br>
 </p>
-
-
 
 </body>
 </html>
